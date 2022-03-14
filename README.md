@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ilya
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning github and python
 
 <!---
 IluxaYT/IluxaYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
